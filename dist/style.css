@@ -100,7 +100,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("img/squares.jpg") no-repeat center / cover;
+    background: url("img/dad.jpg") no-repeat bottom / cover;
     height: 100vh;
     text-align: center;
 } 
